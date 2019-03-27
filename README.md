@@ -1,9 +1,3 @@
-_Hey there.
-Welcome to my website._
-
-_Sanika_
-
-------
 ### About
 
 After having the epiphany that Physics, my first love, was literally Rocket Science (a superset thereof, really), I turned to what I thought was the next most interesting field of study: Theoretical and Applied Computer Science. Turns out it was a good decision because this rebound ended up becoming my second love.
