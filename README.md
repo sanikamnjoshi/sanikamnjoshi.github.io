@@ -1,5 +1,7 @@
-# SANIKAMNJOSHI
-_I want to make a brain, eventually._
+_Hey there.
+Welcome to my website._
+
+_Sanika_
 
 ------
 ### About
@@ -14,8 +16,3 @@ Someday, you will read my name - maybe even see my face - on the cover of Chip, 
 ### Why Sanika _MN_ Joshi?
 
 Because I wanted to include my mother's name (that's the _M_) and father's name (the _N_) in my name one way or another.
-
-------
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
