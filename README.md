@@ -1,4 +1,4 @@
-[About](#about) | [My Projects](#my-projects)
+[Home](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects)
 
 ### About
 
@@ -12,9 +12,3 @@ Someday, you will read my name - maybe even see my face - on the cover of Chip, 
 ### Why Sanika _MN_ Joshi?
 
 Because I wanted to include my mother's name (that's the _M_) and father's name (the _N_) in my name one way or another.
-
----
-### My Projects
-- [Commit Count](https://sanikamnjoshi.github.io/commit-count/)
-- [GitHub Trending](https://sanikamnjoshi.github.io/github-trending/)
-- [eKal](https://sanikamnjoshi.github.io/eKal/)
