@@ -1,37 +1,19 @@
-## SANIKAMNJOSHI
-I want to make a brain, eventually.
+# SANIKAMNJOSHI
+_I want to make a brain, eventually._
 
-You can use the [editor on GitHub](https://github.com/sanikamnjoshi/sanikamnjoshi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After having the epiphany that Physics, my first love, was literally Rocket Science (a superset thereof, really), I turned to what I thought was the next most interesting field of study: Theoretical and Applied Computer Science. Turns out it was a good decision because this rebound ended up becoming my second love.
 
-### Markdown
+I admit I am a novice in my field, but I know that that status isn't here to stay. I like to learn and to think, even more so about learning and thinking. That explains why I spend most of my free time understanding how Computer Heuristics, Machine Learning, Data Science and Artificial Intelligence work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Someday, you will read my name - maybe even see my face - on the cover of Chip, Wired, or Popular Science. Till then, this blog and my social profiles on several platforms will have to suffice.
 
-```markdown
-Syntax highlighted code block
+------
 
-# Header 1
-## Header 2
-### Header 3
+### Why Sanika _MN_ Joshi?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanikamnjoshi/sanikamnjoshi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Because I wanted to include my mother's name (that's the _M_) and father's name (the _N_) in my name one way or another.
 
 ### Support or Contact
 
