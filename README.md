@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## SANIKAMNJOSHI
+I want to make a brain, eventually.
 
 You can use the [editor on GitHub](https://github.com/sanikamnjoshi/sanikamnjoshi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
