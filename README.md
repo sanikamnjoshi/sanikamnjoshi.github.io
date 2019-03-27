@@ -1,6 +1,7 @@
 # SANIKAMNJOSHI
 _I want to make a brain, eventually._
 
+------
 ### About
 
 After having the epiphany that Physics, my first love, was literally Rocket Science (a superset thereof, really), I turned to what I thought was the next most interesting field of study: Theoretical and Applied Computer Science. Turns out it was a good decision because this rebound ended up becoming my second love.
@@ -10,11 +11,11 @@ I admit I am a novice in my field, but I know that that status isn't here to sta
 Someday, you will read my name - maybe even see my face - on the cover of Chip, Wired, or Popular Science. Till then, this blog and my social profiles on several platforms will have to suffice.
 
 ------
-
 ### Why Sanika _MN_ Joshi?
 
 Because I wanted to include my mother's name (that's the _M_) and father's name (the _N_) in my name one way or another.
 
+------
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
