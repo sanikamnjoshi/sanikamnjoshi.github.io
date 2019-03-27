@@ -1,4 +1,4 @@
-[**Home**](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects)
+[**Home**](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [Social](https://sanikamnjoshi.github.io/social)
 
 ### About
 
