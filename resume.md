@@ -1,18 +1,13 @@
-[Home](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [**Résumé**](https://sanikamnjoshi.github.io/resume) | [Social](https://sanikamnjoshi.github.io/social)
+[Home](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [Learning](https://sanikamnjoshi.github.io/learning) | [**Résumé**](https://sanikamnjoshi.github.io/resume) | [Social](https://sanikamnjoshi.github.io/social)
 
 ### **JOSHI, SANIKA**
 
 #### EDUCATIONAL BACKGROUND
 
 _On-going:_ Master Information Systems (expected to graduate in July 2020) from **Technical University of Munich, Germany**  
-_June 2018:_ Bachelor in Computer Applications from **MIT-SOM College (affiliated to Savitribai Phule Pune University), India**  
-_2015:_ Advanced Science (Physics, Mathematics, Chemistry; Optional Subject: Biology) from **MES Abasaheb Garware College, India**   
+_June 2018:_ Bachelor in Computer Applications from **MIT-SOM College (Savitribai Phule Pune University), India**  
+_2015:_ Higher secondary education in Science from **MES Abasaheb Garware College, India**   
 _2013:_ Primary and secondary education from **Abhinava Vidyalaya English Medium School, India**
-
-#### RELEVANT COURSES
-**_On-going relevant courses (master program):_** Introduction to Deep Learning, Distributed Systems, Business Analytics  
-**_Completed relevant courses (bachelor program):_** Programming Principles and Algorithms, Procedure Oriented Programming using C, Data Structures using C, Object Oriented Programming using C++, Programming in Java, Computer Applications in Statistics, Computer Networking, Operating System Concepts, Dot Net Programming, Programming in Visual Basic, Web Technologies, Database Management Systems, Relational Database Management Systems, Software Engineering, Software Testing  
-**_Completed relevant courses (additional):_** Certified Training in C Programming (SEED Infotech), Java Tutorial Course (John Purcell, Udemy), Git and GitHub (Udacity)
 
 #### INTERNSHIPS
 _December 2017 – March 2018:_ **Acellere Software Pvt. Ltd.**   
