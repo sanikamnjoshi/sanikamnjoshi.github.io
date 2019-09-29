@@ -10,7 +10,12 @@ _10.2018 – Present:_ **Master Information Systems, Technical University of Mu
 -	Introduction to Deep Learning
 -	Machine Learning with IBM Power AI
 -	Cognitive Systems  
+
 _07.2015 – 06.2018:_ **Bachelor in Computer Applications, Savitribai Phule Pune University, India**
+-	Programming Principles and Algorithms
+-	Data Structures
+-	Various programming languages
+-	Software and web development  
 
 #### INTERNSHIPS
 _December 2017 – March 2018:_ **Embold Technologies GmbH (earlier Acellere GmbH)**  
@@ -38,7 +43,7 @@ Development in Python for Gamma, Embold’s SCA product
 - Hindi: Native proficiency
 
 #### CO-CURRICULAR ACCOMPLISHMENTS
-- Won the Persistent Systems Inspiration Award in **Smart India Hackathon 2017**, a national level coding competition held in India
+- Won the Persistent Systems Inspiration Award in **Smart India Hackathon 2017**, a national-level Hackathon held in India with over 1150 participating teams (45,000 students)
 - Won a silver medal in **Dr. Homi Bhabha Science Talent Search Competition**, a state level science exam and competition in held Maharashtra, India
 
 #### SOFT SKILLS
