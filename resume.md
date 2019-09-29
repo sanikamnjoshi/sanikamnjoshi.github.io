@@ -22,8 +22,8 @@ _December 2017 – March 2018:_ **Embold Technologies GmbH (earlier Acellere Gm
 Development in Python for Gamma, Embold’s SCA product
 
 #### PROJECT EXPERIENCE
-- [Hilfsuche](https://github.com/sanikamnjoshi/hilfsuche), a platform help charitable donors and beneficiaries find and connect with one another - MERN
-- [Shakti](https://github.com/sanikamnjoshi/shakti), an application for personal safety - Android
+- Hilfsuche, a platform help charitable donors and beneficiaries find and connect with one another - MERN
+- Shakti, an application for personal safety - Android
 - [eKal](https://github.com/sanikamnjoshi/eKal), a platform for team and task management - JSP, Java
 - TED, a Windows application for customized diet planning - VB
 
