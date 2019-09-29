@@ -1,41 +1,45 @@
-[Home](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [Learning](https://sanikamnjoshi.github.io/learning) | [**Résumé**](https://sanikamnjoshi.github.io/resume) | [Social](https://sanikamnjoshi.github.io/social)
+[Home](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [**Résumé**](https://sanikamnjoshi.github.io/resume) | [Social](https://sanikamnjoshi.github.io/social)
 
-### **JOSHI, SANIKA**
+### **SANIKA JOSHI**
 
 #### EDUCATIONAL BACKGROUND
 
-_On-going:_ Master Information Systems (expected to graduate in July 2020) from **Technical University of Munich, Germany**  
-_June 2018:_ Bachelor in Computer Applications from **MIT-SOM College (Savitribai Phule Pune University), India**  
-_2015:_ Higher secondary education in Science from **MES Abasaheb Garware College, India**   
-_2013:_ Primary and secondary education from **Abhinava Vidyalaya English Medium School, India**
+_10.2018 – Present:_ **Master Information Systems, Technical University of Munich, Germany**  
+-	Business Analytics
+-	Data Mining Cup
+-	Introduction to Deep Learning
+-	Machine Learning with IBM Power AI
+-	Cognitive Systems  
+_07.2015 – 06.2018:_ **Bachelor in Computer Applications, Savitribai Phule Pune University, India**
 
 #### INTERNSHIPS
-_December 2017 – March 2018:_ **Acellere Software Pvt. Ltd.**   
-Worked as a Software Development Intern on Acellere’s code analysis product, Gamma. Mainly worked in Python.
+_December 2017 – March 2018:_ **Embold Technologies GmbH (earlier Acellere GmbH)**  
+Development in Python for Gamma, Embold’s SCA product
 
 #### PROJECT EXPERIENCE
-_2017 – 2018:_ **Semester Projects (bachelor program)**  
-- Fully functional team management web application in JSP and Java (Semester 5)  
-- Customized diet planning application in VB (Semester 6)
+- Hilfsuche, a platform help charitable donors and beneficiaries find and connect with one another - MERN
+- Shakti, an application for personal safety - Android
+- eKal, a platform for team and task management - JSP, Java
+- TED, a Windows application for customized diet planning - VB
+
+#### PROFESSIONAL SKILLS
+- Strong Skills
+  - Python (pandas, scikitlearn, matplotlib, bs4)
+  - R (mlr, dplyr, tidyr)
+  - Web: HTML, JSP, CSS, PHP, Javascript (React, Node, Bootstrap)
+- Moderate Skills
+  - Programming: Java, C, C++, Android Development
+  - Database: SQL, MongoDB
 
 #### LANGUAGES
-- English: Native proficiency (TOEFL iBT 116/120)  
-- German: Full professional proficiency (TestDaF TDN 4, Goethe Institut B2.2 Certificate)  
-- Marathi: Native proficiency (mother tongue)  
+- English: Native proficiency  
+- German: Full professional proficiency (TestDaF TDN 4 / CEFR C1)  
+- Marathi: Mother tongue
 - Hindi: Native proficiency
 
-#### COMPUTER SCIENCE SKILLS
-**_Programming:_** Python, R, Java, C, C++, Android Development, VB.NET  
-**_Web Development:_** HTML, CSS, JS, JSP, PHP, XML, SQL
-
 #### CO-CURRICULAR ACCOMPLISHMENTS
-- Won the Persistent Systems Inspiration Award in **Smart India Hackathon 2017**, a national level coding competition held in India  
-- Published an explanatory paper about the ongoing research on Food Computers (in MIT, USA) in <a href="https://issuu.com/p.i.n.g./docs/p.i.n.g._12.1" target="_blank">**PICT’s IEEE magazine** (Issue 12.1, pg. 24)</a>  
-- Presented above-mentioned paper at **TERRE Policy International Youth Conference**  
+- Won the Persistent Systems Inspiration Award in **Smart India Hackathon 2017**, a national level coding competition held in India
 - Won a silver medal in **Dr. Homi Bhabha Science Talent Search Competition**, a state level science exam and competition in held Maharashtra, India
 
 #### SOFT SKILLS
 Systematic and organized, good communication skills, works well as part of a team, thoroughly enjoys picking up new skills and learning new concepts
-
-#### EXTRA-CURRICULAR INTERESTS
-Reading, Cycling, Hiking, Travelling
