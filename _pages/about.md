@@ -1,6 +1,7 @@
-[**Home**](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [Résumé](https://sanikamnjoshi.github.io/resume) | [Social](https://sanikamnjoshi.github.io/social)
-
-### About
+---
+permalink: /about/
+title: "About"
+---
 
 After having the epiphany that Physics, my first love, was literally Rocket Science (a superset thereof, really), I turned to what I thought was the next most interesting field of study: Theoretical and Applied Computer Science. Turns out it was a good decision because this rebound ended up becoming my second love.
 

@@ -1,4 +1,7 @@
-[Home](https://sanikamnjoshi.github.io/) | [My Projects](https://sanikamnjoshi.github.io/my-projects) | [**Résumé**](https://sanikamnjoshi.github.io/resume) | [Social](https://sanikamnjoshi.github.io/social)
+---
+permalink: /resume/
+title: "Résumé"
+---
 
 ### **SANIKA JOSHI**
 
