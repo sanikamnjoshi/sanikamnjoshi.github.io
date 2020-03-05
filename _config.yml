@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Sanika"
-  avatar : "/assets/images/bio-photo.jpg"
+  # avatar : "/assets/images/bio-photo.jpg"
   bio    : "Updating myself - one gradient step at a time."
   links:
     - label: "GitHub"
