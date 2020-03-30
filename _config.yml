@@ -66,7 +66,7 @@ author:
       icon: "fab fa-fw fa-get-pocket"
       url: "https://getpocket.com/@fv5A9g1fd4623T26d0pe7b5pf3TYdYdf66eL87f6dSA422nW758f6gZ4XnRBG462"
     - label: "Old, Rusty Blog"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-wordpress"
       url: "https://leeccentriques.wordpress.com/"
 
 footer:
