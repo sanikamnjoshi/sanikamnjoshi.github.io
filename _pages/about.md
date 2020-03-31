@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  overlay_image: /assets/images/kalte-wasser.jpg
+  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
+  caption: "My favorite expression"
 ---
 
 After having the epiphany that Physics, my first love, was literally Rocket Science (a superset thereof, really), I turned to what I thought was the next most interesting field of study: Theoretical and Applied Computer Science. Turns out it was a good decision because this rebound ended up becoming my second love.
