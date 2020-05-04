@@ -9,24 +9,24 @@ header:
 intro: 
   - excerpt: "Some open source projects I have made in the process of learning."
 feature_row:
-  - image_path: /assets/images/project-images/ekal.jpg
-    image_caption: "Photo by NORTHFOLK on [Unsplash](https://unsplash.com/)"
-    alt: "Image for eKal"
-    title: "eKal"
-    excerpt: "A simple web application for team collaboration."
-    url: "https://github.com/sanikamnjoshi/eKal"
+  - image_path: /assets/images/project-images/design-donts.jpg
+    image_caption: "Photo by [Frat_Panda](https://www.reddit.com/user/Frat_Panda) on [Reddit](https://www.reddit.com/)"
+    alt: "Image for The Don'ts of Design"
+    title: "The Don'ts of Design (WORK IN PROGRESS)"
+    excerpt: "An archive of bad design put together using some CV, some NLP, a lot of (wo)man hours and r/CrappyDesign"
+    url: "https://github.com/sanikamnjoshi/design-donts"
     btn_label: "Repo"
     btn_class: "btn--primary"
   - image_path: /assets/images/project-images/github-trending.jpg
-    image_caption: "Photo by Patrick Tomasso on [Unsplash](https://unsplash.com/)"
+    image_caption: "Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/)"
     alt: "Image for GitHub Trending"
     title: "GitHub Trending"
-    excerpt: "A python script that scrapes the GitHub trending page and writes the repo links to a text file. Made using BeautifulSoup."
+    excerpt: "A Python script that scrapes the GitHub trending page and writes the repo links to a text file. Made using BeautifulSoup."
     url: "https://github.com/sanikamnjoshi/github-trending"
     btn_label: "Repo"
     btn_class: "btn--primary"
   - image_path:  /assets/images/project-images/commit-count.jpg
-    image_caption: "Photo by Yancy Min on [Unsplash](https://unsplash.com/)"
+    image_caption: "Photo by [Yancy Min](https://unsplash.com/@yancymin) on [Unsplash](https://unsplash.com/)"
     alt: "Image for Commit Count"
     title: "Commit Count"
     excerpt: "Python code for getting the number of commits made in a repo using GitPython."
@@ -35,27 +35,11 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/project-images/ekal.jpg
-    image_caption: "Photo by NORTHFOLK on [Unsplash](https://unsplash.com/)"
+    image_caption: "Photo by [NORTHFOLK](https://unsplash.com/@northfolk) on [Unsplash](https://unsplash.com/)"
     alt: "Image for eKal"
     title: "eKal"
     excerpt: "A simple web application for team collaboration."
     url: "https://github.com/sanikamnjoshi/eKal"
-    btn_label: "Repo"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/project-images/github-trending.jpg
-    image_caption: "Photo by Patrick Tomasso on [Unsplash](https://unsplash.com/)"
-    alt: "Image for GitHub Trending"
-    title: "GitHub Trending"
-    excerpt: "A python script that scrapes the GitHub trending page and writes the repo links to a text file. Made using BeautifulSoup."
-    url: "https://github.com/sanikamnjoshi/github-trending"
-    btn_label: "Repo"
-    btn_class: "btn--primary"
-  - image_path:  /assets/images/project-images/commit-count.jpg
-    image_caption: "Photo by Yancy Min on [Unsplash](https://unsplash.com/)"
-    alt: "Image for Commit Count"
-    title: "Commit Count"
-    excerpt: "Python code for getting the number of commits made in a repo using GitPython."
-    url: "https://github.com/sanikamnjoshi/commit-count"
     btn_label: "Repo"
     btn_class: "btn--primary"
 

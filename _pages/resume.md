@@ -37,6 +37,7 @@ _December 2017 – March 2018:_ **Embold Technologies GmbH (earlier Acellere Gm
 - Shakti, an application for personal safety - Android
 - [eKal](https://github.com/sanikamnjoshi/eKal), a platform for team and task management - JSP, Java
 - TED, a Windows application for customized diet planning - VB
+- [The Don'ts of Design](https://github.com/sanikamnjoshi/design-donts) (WORK IN PROGRESS), an archive of bad design put together using CV and NLP
 
 #### PROFESSIONAL SKILLS
 - Strong Skills
