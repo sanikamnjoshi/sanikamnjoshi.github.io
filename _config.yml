@@ -101,8 +101,12 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
+  - title: <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="15" height="10">
+    url: https://www.linkedin.com/in/sanikamnjoshi
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+  - title: <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="15" height="10">
+    url: https://www.goodreads.com/sanikamnjoshi
+    hide_icon: true # set to true to hide the external link icon - defaults to false
 
 
 # Footer content
