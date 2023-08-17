@@ -1,6 +1,10 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "My portfolio"
+permalink: /
 ---
 
-This is the new home page for my site.
+
+This is the home page for my site.
