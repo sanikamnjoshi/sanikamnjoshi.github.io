@@ -1,8 +1,9 @@
 title: Sanika MN Joshi
 description: Portfolio
 theme: just-the-docs
-
-url: https://sanikamnjoshi.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sanikamnjoshi.github.io"
+repository: sanikamnjoshi/sanikamnjoshi.github.io # for github-metadata
 
 permalink: pretty
 
@@ -74,7 +75,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  Repository: https://github.com/sanikamnjoshi/sanikamnjoshi.github.io
+  This repository on GitHub: https://github.com/sanikamnjoshi/sanikamnjoshi.github.io
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

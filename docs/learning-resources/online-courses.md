@@ -32,7 +32,7 @@ Building a computer from the ground up. Literally, from a NAND gate to a machine
 2023.08.18: I am doing the first of this two-part course right now. While it is true that I graduated university a year ago and has been working as a developer since, I realized that I have been leaning towards more of a make-it-work approach to programming instead of the far more well-thought-out one that this course (and its accompanying book) advocates. I figured it was about time I started focusing on programming *the right way*.
 
 {: .note }
-Note:  This course is now called "How to Code" but I cannot bring myself to call it that. I find the original title more fitting, as it makes you think programs as entities that you can actively design and implies that the design of a program has the power to change the program. Maybe I am giving this too much thought, but still, I'd like to stick with this.  
+This course is now called "How to Code" but I cannot bring myself to call it that. I find the original title more fitting, as it makes you think programs as entities that you can actively design and implies that the design of a program has the power to change the program. Maybe I am giving this too much thought, but still, I'd like to stick with this.  
 
 
 ## [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)

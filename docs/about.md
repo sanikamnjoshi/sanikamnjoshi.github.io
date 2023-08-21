@@ -18,7 +18,10 @@ nav_order: 2
 
 ---
 
-## This is me
+## This is me.
+
+![](/assets/images/me.jpg)
+<small>Look at me chilling by a canal.</small>
 
 After facing a dilemma about whether to study Physics (which I thought of as my "estranged first love" at the time) or Computer Science, the latter finally came out on top. CS seemed to have way more room for innovation, and I wanted to innovate. Turns out it was a good decision, because my choice ended up becoming my "second love," so to speak.
 

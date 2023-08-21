@@ -1,11 +1,11 @@
 ---
 layout: default
-title: NAND2Tetris
+title: Nand2Tetris
 parent: Self Study
 nav_order: 2
 ---
 
-# NAND2Tetris
+# Nand2Tetris
 {: .no_toc }
 
 <details open markdown="block">
